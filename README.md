@@ -23,6 +23,28 @@
 
 
 ### 🛠️ Tech Stack
+<!-- TECH STACK -->
+<div class="section">
+  <div class="section-title">🛠️ Tech Stack</div>
+  <div class="tech-grid">
+    <div class="tech-cat">💻 Languages</div>
+    <span class="tech-badge tb-html">🟠 HTML5</span>
+    <span class="tech-badge tb-css">🔵 CSS3</span>
+    <span class="tech-badge tb-js">🟡 JavaScript</span>
+    <span class="tech-badge tb-ts">🔷 TypeScript</span>
+    <span class="tech-badge tb-py">🐍 Python</span>
+    <div class="tech-cat">🚀 Frameworks & Libraries</div>
+    <span class="tech-badge tb-react">⚛️ React</span>
+    <span class="tech-badge tb-next">▲ Next.js</span>
+    <span class="tech-badge tb-node">🟢 Node.js</span>
+    <span class="tech-badge tb-tw">💨 Tailwind CSS</span>
+    <div class="tech-cat">🗄️ Database & Tools</div>
+    <span class="tech-badge tb-mysql">🐬 MySQL</span>
+    <span class="tech-badge tb-mongo">🍃 MongoDB</span>
+    <span class="tech-badge tb-git">🔥 Git</span>
+    <span class="tech-badge tb-figma">🎨 Figma</span>
+    <span class="tech-badge tb-vsc">💙 VS Code</span>
+  </div>
+</div>
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,java,php,github,git)
 
