@@ -4,8 +4,8 @@
 
 ---
 
-### 🕹️ Pacman Activity
-![Pacman Snake](https://raw.githubusercontent.com/username-lu/username-lu/output/github-contribution-grid-snake.svg)
+## 🕹️ My Sigma Activity
+![Pacman Eating](https://raw.githubusercontent.com/USERNAME_LU/USERNAME_LU/output/github-contribution-grid-snake.svg)
 
 ---
 
