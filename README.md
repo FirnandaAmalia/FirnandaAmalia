@@ -5,7 +5,7 @@
 ---
 
 ## 🕹️ My Sigma Activity
-![Pacman Eating](https://raw.githubusercontent.com/USERNAME_LU/USERNAME_LU/output/github-contribution-grid-snake.svg)
+![Pacman Eating](https://raw.githubusercontent.com/FirnandaAmalia/firnanda-amalia/output/github-contribution-grid-snake.svg)
 
 ---
 
