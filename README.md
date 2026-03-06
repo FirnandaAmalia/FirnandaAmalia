@@ -5,13 +5,12 @@
 ---
 
 ### 🕹️ Pacman Mode: ON
+
 <p align="left">
-  <img src="https://media.giphy.com/media/f6idmE9VHG6skx3v23/giphy.gif" width="300">
+  <img src="https://raw.githubusercontent.com/Hannanm9/Hannanm9/main/pacman.gif" width="350">
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 ![Skills](https://skillicons.dev/icons?i=html,css,js,cpp,java,php,github,git)
-
----
