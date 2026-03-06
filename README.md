@@ -11,7 +11,7 @@
 
 
 ### 🕹️ Pacman Contribution Graph
-![Pacman](https://raw.githubusercontent.com/FirnandaAmalia/FirnandaAmalia/output/github-contribution-grid-snake.svg)
+![Pacman](https://raw.githubusercontent.com/FirnandaAmalia/FirnandaAmalia/output/github-contribution-grid-snake-dark.svg)
 
 
 
