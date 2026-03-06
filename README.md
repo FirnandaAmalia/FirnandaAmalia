@@ -10,9 +10,8 @@
 
 
 
-### 🕹️ My Github Contributions (Pacman Edition)
-
-![Pacman](https://raw.githubusercontent.com/FirnandaAmalia/firnanda-amalia/output/github-contribution-grid-snake.svg)
+### 🕹️ Pacman Contribution Graph
+![Pacman](https://raw.githubusercontent.com/FirnandaAmalia/FirnandaAmalia/output/github-contribution-grid-snake.svg)
 
 
 
