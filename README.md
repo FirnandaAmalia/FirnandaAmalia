@@ -10,15 +10,13 @@
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FirnandaAmalia/FirnandaAmalia/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FirnandaAmalia/FirnandaAmalia/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FirnandaAmalia/FirnandaAmalia/output/pacman-contribution-graph.svg">
-</picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
-
+<a href="https://github.com/abozanona/pacman-contribution-graph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FirnandaAmalia/FirnandaAmalia/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FirnandaAmalia/FirnandaAmalia/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FirnandaAmalia/FirnandaAmalia/output/pacman-contribution-graph.svg">
+  </picture>
+</a>
 
 ---
 
