@@ -15,6 +15,3 @@
 ![Skills](https://skillicons.dev/icons?i=html,css,js,cpp,java,php,github,git)
 
 ---
-
-### 📊 My Stats
-![Firnanda's Stats](https://github-readme-stats.vercel.app/api?username=FirnandaAmalia&show_icons=true&theme=radical)
