@@ -22,29 +22,15 @@
 
 
 
-### 🛠️ Tech Stack
-<!-- TECH STACK -->
-<div class="section">
-  <div class="section-title">🛠️ Tech Stack</div>
-  <div class="tech-grid">
-    <div class="tech-cat">💻 Languages</div>
-    <span class="tech-badge tb-html">🟠 HTML5</span>
-    <span class="tech-badge tb-css">🔵 CSS3</span>
-    <span class="tech-badge tb-js">🟡 JavaScript</span>
-    <span class="tech-badge tb-ts">🔷 TypeScript</span>
-    <span class="tech-badge tb-py">🐍 Python</span>
-    <div class="tech-cat">🚀 Frameworks & Libraries</div>
-    <span class="tech-badge tb-react">⚛️ React</span>
-    <span class="tech-badge tb-next">▲ Next.js</span>
-    <span class="tech-badge tb-node">🟢 Node.js</span>
-    <span class="tech-badge tb-tw">💨 Tailwind CSS</span>
-    <div class="tech-cat">🗄️ Database & Tools</div>
-    <span class="tech-badge tb-mysql">🐬 MySQL</span>
-    <span class="tech-badge tb-mongo">🍃 MongoDB</span>
-    <span class="tech-badge tb-git">🔥 Git</span>
-    <span class="tech-badge tb-figma">🎨 Figma</span>
-    <span class="tech-badge tb-vsc">💙 VS Code</span>
-  </div>
-</div>
+### 🛠️ Tools
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
