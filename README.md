@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="NAMA_FILE_FOTO_BARU_LU.jpg" width="100%" />
+  <img src="anu.png" width="100%" />
 </p>
 
 
