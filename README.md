@@ -1,5 +1,3 @@
-![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Hi!;Welcome+to+my+profile!)
-
 <p align="center">
   <img src="header.gif" width="100%" />
 </p>
