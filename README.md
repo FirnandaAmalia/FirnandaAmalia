@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.gif" width="100%" />
+  <img src="NAMA_FILE_FOTO_BARU_LU.jpg" width="100%" />
 </p>
 
 
