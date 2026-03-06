@@ -1,13 +1,20 @@
 # Hi! I'm Firnanda Amalia ⚡
 
-![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Hi!+I'm+Firnanda+Amalia;Welcome+to+my+profile!)
+![Typing Effect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=435&lines=Hi!+I'm+Firnanda+Amalia;A+Sigma+Developer;Welcome+to+my+profile!)
 
 ---
 
-### 🕹️ My Github Contributions (Pacman Edition)
-![Pacman](https://res.cloudinary.com/cloudinary/image/upload/v1617255140/samples/ecommerce/pacman-eating.gif)
+### 🕹️ Pacman Mode: ON
+<p align="left">
+  <img src="https://media.giphy.com/media/f6idmE9VHG6skx3v23/giphy.gif" width="300">
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
-![Skills](https://skillicons.dev/icons?i=html,css,js,java,php,github,git)
+![Skills](https://skillicons.dev/icons?i=html,css,js,cpp,java,php,github,git)
+
+---
+
+### 📊 My Stats
+![Firnanda's Stats](https://github-readme-stats.vercel.app/api?username=FirnandaAmalia&show_icons=true&theme=radical)
