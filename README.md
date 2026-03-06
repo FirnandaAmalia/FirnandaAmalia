@@ -2,9 +2,6 @@
   <img src="header.gif" width="100%" />
 </p>
 
-<div align="center">
-  </div>
-
 
 
 
